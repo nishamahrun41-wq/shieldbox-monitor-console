@@ -1,0 +1,6 @@
+{
+  "name": "ShieldBox Monitor Console",
+  "description": "Industrial cybersecurity and OT network monitor console featuring interactive Purdue model device topologies, live Modbus and OPC traffic baselining, anomaly injection simulation, and plain-language alert telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
